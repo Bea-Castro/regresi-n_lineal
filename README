@@ -1,0 +1,7 @@
+Este proyecto busca predecir el coste del seguro médico de una persona basándose en datos fisiológicos y demográficosde manera más precisa.
+
+Para lograrlo, primero se carga el conjunto de datos disponible en el siguiente enlace https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv , que contiene variables como edad, género, índice de masa corporal, número de hijos y si la persona es fumadora. Posteriormente, se realiza un análisis exploratorio de datos (EDA) para identificar patrones y seleccionar las características más relevantes.
+
+Después de preparar los datos, se entrena un modelo de regresión lineal que predice el coste del seguro. 
+
+Finalmente, se evalúa la efectividad del modelo y se guarda la solución. Esta iniciativa permitirá a la aseguradora calcular las primas de manera más eficiente y tomar mejores decisiones estratégicas. La implementación está disponible en la carpeta SRC, dentro del notebook "explore.ipynb".
